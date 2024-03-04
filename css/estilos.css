@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+  }
+  
+  #app {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+  }
+  
+  #listaProductos {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #listaProductos li {
+    background-color: #f4f4f4;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }  
